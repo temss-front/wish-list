@@ -1,0 +1,16 @@
+{
+  "name": "wish-list",
+  "version": "1.0.0",
+  "description": "UI for wish list site",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "react",
+    "react-query",
+    "wishlist"
+  ],
+  "author": "Temss (Artem Borisov)",
+  "license": "ISC"
+}
